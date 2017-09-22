@@ -1,0 +1,23 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "\"# Mean_STACK\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasirmym123/Mean_STACK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasirmym123/Mean_STACK/issues"
+  },
+  "homepage": "https://github.com/yasirmym123/Mean_STACK#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
